@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/X4JU/SAJU-MOON/blob/main/sex.txt').text
+    prox= requests.get('https://github.com/eyasin3123/One.-py/blob/main/txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
