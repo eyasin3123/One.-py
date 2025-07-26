@@ -1,8 +1,3 @@
-``` shell script
-rm -rf ToxicBomber
-```
-In your Terminal
-
 ### Version 4.1 Updates:
 <li>Done Some Mejor Changes of Source Files</li>
 <li>Dead APIs Removed</li>
@@ -14,7 +9,7 @@ In your Terminal
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf ToxicBomber
+rm -rf One.-py
 ```
 To Install Tool Newly:
 
