@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/eyasin3123/One.-py/blob/main/two.txt').text
+    prox= requests.get('https://github.com/eyasin3123/One.-py/blob/main/tw.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -1678,7 +1678,7 @@ logo ="""
 [] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
 [] FACEBOOK     :     𝐒𝐀𝐉𝐔 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘 
 [] VERSION      :      𝟔.𝟏
-[] MESSENGER    :     ★彡[𝐌𝐑 -𝐒𝐀𝐉𝐔]彡★
+[] MESSENGER    :     ★彡[𝐌𝐑 -shabbir]彡★
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
@@ -1695,7 +1695,7 @@ def meyexudi():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/X4JU/SAJU-MOON/blob/main/sex.txt').text
+    httpCaht = requests.get('https://github.com/eyasin3123/One.-py/blob/main/tw.txt').text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
@@ -1715,7 +1715,7 @@ def meyexudi():
       os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   SK,   SOJIB ,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801905067662?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801830151770?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
@@ -1834,7 +1834,7 @@ def menu():
     elif HEART in ['1']:
         crack_file()
     elif HEART in ['2','02']:
-        os.system('xdg-open https://www.facebook.com/X4JU69?mibextid=ZbWKwL')
+        os.system('xdg-open https://www.facebook.com/share/1B1Rr3JuXR/')
         os.system("python nono.py")
     elif HEART in ['3','03']:
         result()
