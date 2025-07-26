@@ -2064,7 +2064,7 @@ def setting():
     print("\033[93;1m[\033[93;1m2\033[93;1m] METHOD 2 [\034𝐎𝐥𝐝 𝐕𝐞𝐫𝐬𝐢𝐨𝐧\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[95;1m[\033[92;1m•\033[95;1m] CHOOSE : ')
-    #os.system("xdg-open https://www.facebook.com/profile.php?id=100073213626571")
+    os.system("xdg-open https://www.facebook.com/profile.php?id=100085961271287")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
