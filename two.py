@@ -1646,7 +1646,7 @@ def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system('xdg-open https://www.facebook.com/X4JU69?mibextid=ZbWKwL')
+os.system('xdg-open https://www.facebook.com/share/1Awe4nwN8T/')
 logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
@@ -1655,14 +1655,11 @@ logo ="""
 
 
 
-\033[38;5;46m::::    ::::  :::::::::        ::::::::      :::     ::::::::::: :::    ::: 
-\033[38;5;46m+:+:+: :+:+:+ :+:    :+:      :+:    :+:   :+: :+:       :+:     :+:    :+: 
-\033[38;5;46m+:+ +:+:+ +:+ +:+    +:+      +:+         +:+   +:+      +:+     +:+    +:+ 
-\033[38;5;46m+#+  +:+  +#+ +#++:++#:       +#++:++#++ +#++:++#++:     +#+     +#+    +:+ 
-\033[38;5;46m+#+       +#+ +#+    +#+             +#+ +#+     +#+     +#+     +#+    +#+ 
-\033[38;5;46m#+#       #+# #+#    #+#      #+#    #+# #+#     #+# #+# #+#     #+#    #+# 
-\033[38;5;46m###       ### ###    ###       ########  ###     ###  #####       ########  
-\033[38;5;46m
+
+\x1b[38;5;196m  __  __  __  ___  ____  ____  __ ____ 
+\x1b[38;5;196m (( \ ||  || // \\ || )) || )) || || \\
+\033[38;5;46m   \\  ||==|| ||=|| ||=)  ||=)  || ||_//
+\033[38;5;46m  \_)) ||  || || || ||_)) ||_)) || || \\                                       
 
                                                                          
                                                                          
@@ -1682,7 +1679,7 @@ logo ="""
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
 meyermarexudi =(""" \033[0;97m=============================================""")    
-alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS 150TK 30 500TK FOR    APPROVAL""")
+alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS 🖕TK 30 🖕TK FOR    APPROVAL""")
 xudartimenai =(""" \033[32;1m[+] CONTACT ADMIN PLZ ENTAR""")
 fuckyoursali =(""" \033[32;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
 xudinaministar =(""" \033[38;1m[-] Importent Note """)
@@ -1710,8 +1707,8 @@ def meyexudi():
       print(' \x1b[1;98m║══[𝟸]💥  ONLY ACTIVE ID CLONE 100%')
       print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 80%')
       print(' \x1b[1;97m║══[𝟸]💥  WI-FI  AND DATA BOTH WORKING 100%')
-      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 250 TAKA ')
-      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 500 TAKA ')
+      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 🖕 TAKA ')
+      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 🖕 TAKA ')
       os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   SK,   SOJIB ,    Please,   Send,   Your,   Key,"')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
@@ -1739,7 +1736,7 @@ while attemps < 12345677901:
     username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
     password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
 
-    if username == 'SAJU' and password == 'SUMAIYA':
+    if username == 'sks' and password == 'sks':
         print(' \033[0;95mYou Have Successfully Logged in.')
         os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
         break
@@ -2030,7 +2027,7 @@ def crack_file():
     try:lin = open(o).read().splitlines()
     except:
         print('\033[0;98m==================')
-        animation(' [×] FILE NOT FOUND')
+        animation(' [×] ফাইল নামটা ঠিক করে লেখ')
         time.sleep(2)
         back()
     for xid in lin:
